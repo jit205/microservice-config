@@ -1,6 +1,4 @@
-spring:
-  appliation:
-    name: Config-Default
+
   eureka:
     instance:
       prefix-ip-address: true
